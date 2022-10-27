@@ -80,7 +80,7 @@ public class User {
     }
 
     public String toString() {
-        return String.format("роль-%d %s, логин-%s", userRole.getId(), userRole.getName(), login);
+        return String.format("Role-%d %s, Login-%s", userRole.getId(), userRole.getName(), login);
     }
 
 }

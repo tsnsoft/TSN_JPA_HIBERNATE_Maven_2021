@@ -19,13 +19,13 @@ pom.xml
     </properties>
 
 
-    <!--    https://repository.sonatype.org/index.html#welcome-->
+    <!--    https://mvnrepository.com/artifact/org.hibernate-->
 
     <dependencies>
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>5.4.21.Final</version>
+            <version>5.6.12.Final</version>
         </dependency>
 
         <dependency>
