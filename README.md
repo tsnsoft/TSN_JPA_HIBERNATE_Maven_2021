@@ -69,3 +69,5 @@ pom.xml
 
 </project>
 ```
+
+https://www.baeldung.com/hibernate-criteria-queries
