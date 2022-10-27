@@ -1,7 +1,7 @@
-# TSN_JPA_HIBERNATE_Maven_2021
+﻿# TSN_JPA_HIBERNATE_Maven_2021
 Пример приложения с Hibernate дляNetBeans на Java со сборщиком Maven
 
-https://repository.sonatype.org/index.html#welcome
+https://mvnrepository.com/artifact/org.hibernate/hibernate-core
 
 pom.xml
 ```
@@ -19,7 +19,7 @@ pom.xml
     </properties>
 
 
-    <!--    https://mvnrepository.com/artifact/org.hibernate-->
+    <!--    https://mvnrepository.com/artifact/org.hibernate/hibernate-core   -->
 
     <dependencies>
         <dependency>
@@ -31,7 +31,7 @@ pom.xml
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.23</version>
+            <version>8.0.31</version>
         </dependency>
 
     </dependencies>
